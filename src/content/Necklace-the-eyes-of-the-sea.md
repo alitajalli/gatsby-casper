@@ -1,8 +1,8 @@
 ---
 title: 'The Eyes of the Sea'
 author: [Ghost, Another Author]
-tags: []
-image: img/ring-the-eyes-of-the-sea-ring-1.jpg
+tags: [NECKLACE]
+image: img/ring-the-eyes-of-the-sea-necklace-1.jpg
 date: '1863-11-19T10:00:00.000Z'
 draft: false
 ---
@@ -11,7 +11,7 @@ The present project is inspired by the eyes, sea waves and tiling of the dome of
 It includes two-part, one ring and a medal.
 
 ![Test Image](img/the-eyes-of-the-sea-necklace-1.jpg)
-
+![Test Image](img/the-eyes-of-the-sea-necklace.jpg)
 
 
 Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.

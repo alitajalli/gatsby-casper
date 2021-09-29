@@ -9,11 +9,11 @@ draft: false
 ---
 ## Torch Angel Statue
 
-![]({{site.baseurl}}/img/angel-1.jpg)
+![Test Image](img/angel-1.jpg)
 Floating Angel with torch statue. A splendid piece depicting an Angel holding a torch in her left hand as she floats above the clouds.
 
-![]({{site.baseurl}}/img/angel-3.jpg)
-![]({{site.baseurl}}/img/angel-2.jpg)
+![Test Image](img/angel-3.jpg)
+![Test Image](img/angel-2.jpg)
 
 
 

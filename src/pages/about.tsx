@@ -57,7 +57,7 @@ const About: React.FC = () => (
             <PostFullContent className="post-full-content">
               <div className="post-content">
                 <h5>
-                  Green Garnet <br /> GitHub:{' '}
+                  Green Garnet <br /> Inspired by:{' '}
                   <a > Meanings, Properties and Powers</a>
                 </h5>
                 <p>

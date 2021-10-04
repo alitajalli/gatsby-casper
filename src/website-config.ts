@@ -57,7 +57,7 @@ const config: WebsiteConfig = {
   title: 'Green Garnet',
   description: 'Life is a long dream, and jewellery is a fantasy inside a dream. ',
   coverImage: 'img/blog-cover.png',
-  logo: 'img/ghost-logo.png',
+  logo: 'img/greengarnet.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
   facebook: 'https://www.facebook.com/ghost',

@@ -37,7 +37,7 @@ export const Footer: React.FC = () => (
           target="_blank"
           rel="noopener noreferrer"
         >
-          instagram
+          Instagram
         </a>
 
         <a href="/rss.xml">RSS</a>

@@ -33,11 +33,11 @@ export const Footer: React.FC = () => (
         )}
 
         <a
-          href="https://greengarnet.org"
+          href="https://www.instagram.com/greengarnet.official"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Casper
+          instagram
         </a>
 
         <a href="/rss.xml">RSS</a>

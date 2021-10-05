@@ -33,7 +33,7 @@ export const Footer: React.FC = () => (
         )}
 
         <a
-          href="https://github.com/scttcper/gatsby-casper"
+          href="https://greengarnet.org"
           target="_blank"
           rel="noopener noreferrer"
         >

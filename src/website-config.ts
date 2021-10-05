@@ -15,6 +15,10 @@ export interface WebsiteConfig {
   /**
    * full url, no username
    */
+  instagram?: string;
+  /**
+   * full url, no username
+   */
   facebook?: string;
   /**
    * full url, no username

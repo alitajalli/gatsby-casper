@@ -29,7 +29,7 @@ It is interesting to note that in most Western hermetic traditions that of these
 
 Giordano Bruno may have been considered a heretic during his time, but his work has since gone on to inspire many others; in the realm of science, in the realm of philosophy, in modern hermeticism and elsewhere.
 
-![Test Image](img/giourdano.jpg)
+![Test Image](img/giourdano11.jpg)
 
 
 

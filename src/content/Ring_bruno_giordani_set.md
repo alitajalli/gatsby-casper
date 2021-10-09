@@ -3,7 +3,7 @@ layout: post
 title: 'Giordano Bruno Ring'
 author: [Ghost]
 tags: ['RING']
-image: img/Giordano-Bruno1-1.jpg
+image: img/giordano-Bruno-ring-1.jpg
 date: '2022-08-20T15:11:55.000Z'
 draft: false
 ---

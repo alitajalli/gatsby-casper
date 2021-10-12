@@ -83,7 +83,7 @@ const About: React.FC = () => (
                   It can also boost the respiratory and the immune systems and protect you against highly infectious diseases.
                   The healing energies of Green-Garnet can detoxify the body and reduce inflammations
                 </p>
-                <StaticImage src="img/garnet_coin1.jpg" alt="A dinosaur" />
+                <StaticImage src="../content/img/garnet_coin1.jpg" alt="A dinosaur" />
                 <p>
                   Green-Garnet is the gemstone that will confirm the happiness that you have in your love life.
                   It will show you how you can appreciate the people you love and the people who love you back.

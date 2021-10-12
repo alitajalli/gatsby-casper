@@ -14,7 +14,7 @@ export const SiteNavLogo = () => (
     query={graphql`query HeadingQuery {
   logo: file(relativePath: {eq: "img/greengarnet.png"}) {
     childImageSharp {
-      gatsbyImageData(quality: 100, width: 500, layout: FIXED)
+      gatsbyImageData(quality: 100, width: 800, layout: FIXED)
     }
   }
 }

@@ -36,7 +36,7 @@ const PageTemplate = css`
 const About: React.FC = () => (
   <IndexLayout>
     <Helmet>
-      <title>About</title>
+      <title>CONTACT</title>
     </Helmet>
     <Wrapper css={PageTemplate}>
       <header className="site-archive-header no-image" css={[SiteHeader, SiteArchiveHeader]}>
@@ -56,8 +56,8 @@ const About: React.FC = () => (
             <PostFullContent className="post-full-content">
               <div className="post-content">
                 <h5>
-                  Green Garnet <br /> Inspired by:{' '}
-                  <a > Meanings, Properties and Powers</a>
+                  Catch Your Dreams <br /> Why Choose Green Garnet for Your CAD Services?:{' '}
+                  <a > Fast, Quick and Reliable Services </a>
                 </h5>
                 <p>
                   Jewelry is gorgeous ! Unfortunately, it can be difficult to take what your imagination creates and turn it into an actual product and price too high to do marketing. That is why you should consider Green Garnet’s professional CAD / mass order services .

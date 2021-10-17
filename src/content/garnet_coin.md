@@ -2,7 +2,7 @@
 layout: post
 title: 'Garnet Coin'
 author: [Green Garnet]
-tags: ['NECKLACE']
+tags: [Modern]
 image: img/garnet_coin.jpg
 date: '2022-08-20T15:11:55.000Z'
 draft: false

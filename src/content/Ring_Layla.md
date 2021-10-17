@@ -2,7 +2,7 @@
 layout: post
 title: 'Layla'
 author: [Green Garnet]
-tags: ['RING']
+tags: [Traditional]
 image: img/layla-ring-1.jpg
 date: '2012-08-20T15:11:55.000Z'
 draft: false

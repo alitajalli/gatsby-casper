@@ -60,7 +60,7 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Green Garnet',
   description: 'Life is a long dream, and jewellery is a fantasy inside a dream. ',
-  coverImage: 'img/blog-cover.png',
+  coverImage: 'img/greengarnetcover.png',
   logo: 'img/greengarnet.png',
   lang: 'en',
   siteUrl: 'https://greengarnet.org',

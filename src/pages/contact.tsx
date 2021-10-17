@@ -1,6 +1,6 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-
+import { StaticImage } from "gatsby-plugin-image"
 import { css } from '@emotion/react';
 
 import { Footer } from '../components/Footer';
@@ -60,6 +60,7 @@ const Contact: React.FC = () => (
                   <a > Fast, Quick and Reliable Services </a>
                 </h5>
                 
+                 <StaticImage src="../content/img/greengarnetlogos2.jpg" alt="A dinosaur" />
                 <p>
                   Jewelry is gorgeous ! Unfortunately, it can be difficult to take what your imagination creates and turn it into an actual product and price too high to do marketing. That is why you should consider Green Garnet’s professional CAD / mass order services .
                 </p>
@@ -69,6 +70,7 @@ const Contact: React.FC = () => (
                 <p>
                   I gioielli sono stupendi! Sfortunatamente, può essere difficile prendere ciò che la tua immaginazione crea e trasformarlo in un prodotto reale e un prezzo troppo alto per fare marketing. Ecco perché dovresti prendere in considerazione i servizi CAD / ordini di massa professionali di Green Garnet.
                 </p> 
+                <StaticImage src="../content/img/greengarnet_Jewelry1.jpg" alt="A dinosaur" />
                
                 <p>
                   Our CAD services allow jewelry online/offline stores and jewelry designers to think outside the box when it comes to creating custom jewelry series. No longer are they bound by what they can physically create by hand. Instead, a computer software program can help turn a creative and innovative design concept into reality.
@@ -86,10 +88,12 @@ Servizi veloci, rapidi e affidabili da Green Garnet
 Per iniziare, contatta oggi stesso il tuo coordinatore del lavoro.
 
                 </p>
+                <StaticImage src="../content/img/ greengarnet-about.jpg" alt="A dinosaur" />
+               
                  <p>
                    Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
                 </p>
-               
+                 <StaticImage src="../content/img/aitta.jpg" alt="A dinosaur" />
                 <p>  
  1. Chat With A Representative:
 One of our designers will be with you shortly.From there, we will schedule a call or arrange a meeting to get started.

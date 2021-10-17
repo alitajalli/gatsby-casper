@@ -33,7 +33,7 @@ export const Footer: React.FC = () => (
         )}
 
         <a
-          href="https://www.instagram.com/greengarnet.official"
+          href="https://www.instagram.com/greengarnet.studio"
           target="_blank"
           rel="noopener noreferrer"
         >

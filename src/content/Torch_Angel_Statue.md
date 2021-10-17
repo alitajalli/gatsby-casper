@@ -2,7 +2,7 @@
 layout: post
 title: 'Torch Angel Statue'
 author: [Green Garnet]
-tags: ['STATUSE']
+tags: [Classic]
 image: img/angel-1.jpg
 date: '2012-08-20T15:11:55.000Z'
 draft: false

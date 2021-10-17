@@ -4,7 +4,7 @@ title: 'Giordano Bruno'
 author: [Green Garnet]
 tags: [Modern]
 image: img/Giordano-Bruno1-1.jpg
-date: '2012-08-20T15:11:55.000Z'
+date: '2020-08-20T15:11:55.000Z'
 draft: false
 ---
 Giordano Bruno

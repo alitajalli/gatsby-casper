@@ -4,7 +4,7 @@ title: 'Torch Angel Statue'
 author: [Green Garnet]
 tags: [Classic]
 image: img/angel-1.jpg
-date: '2012-08-20T15:11:55.000Z'
+date: '2020-08-20T15:11:55.000Z'
 draft: false
 ---
 ## Torch Angel Statue

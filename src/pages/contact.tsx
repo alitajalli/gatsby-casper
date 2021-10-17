@@ -62,47 +62,7 @@ const About: React.FC = () => (
                 <p>
                   Jewelry is gorgeous ! Unfortunately, it can be difficult to take what your imagination creates and turn it into an actual product and price too high to do marketing. That is why you should consider Green Garnet’s professional CAD / mass order services .
                 </p>
-                <p>
-المجوهرات رائعة! لسوء الحظ ، قد يكون من الصعب أن تأخذ ما يبتكره خيالك وتحويله إلى منتج فعلي وسعر مرتفع جدًا للقيام بالتسويق ، ولهذا السبب يجب عليك التفكير في خدمات CAD / الطلبات الجماعية الاحترافية من Green Garnet 
-
-                </p>
-                <p>
-                  I gioielli sono stupendi! Sfortunatamente, può essere difficile prendere ciò che la tua immaginazione crea e trasformarlo in un prodotto reale e un prezzo troppo alto per fare marketing. Ecco perché dovresti prendere in considerazione i servizi CAD / ordini di massa professionali di Green Garnet.
-
-                </p>
-                <p>
-                 Our CAD services allow jewelry online/offline stores and jewelry designers to think outside the box when it comes to creating custom jewelry series. No longer are they bound by what they can physically create by hand. Instead, a computer software program can help turn a creative and innovative design concept into reality.
-                  Fast, Quick and Reliable Services from Green Garnet
-                  To get started, contact your job coordinator today.
-                  
-                </p>
-                <p>
-الخاصة بنا لمتاجر المجوهرات عبر الإنترنت / غير المتصلة بالإنترنت ومصممي المجوهرات بالتفكير خارج الصندوق عندما يتعلق الأمر بإنشاء سلسلة مجوهرات مخصصة. لم يعدوا ملزمين بما يمكنهم صنعه يدويًا. بدلاً من ذلك ، يمكن أن يساعد برنامج الكمبيوتر في تحويل مفهوم التصميم الإبداعي والمبتكر إلى واقع ملموس.
-خدمات سريعة وسريعة وموثوقة من مجوهرات Green Garnet
-للبدء ، اتصل بمنسق عملك اليوم.
-                  
-                </p>
-                <p>
-                I nostri servizi CAD consentono ai negozi di gioielli online/offline e ai designer di gioielli di pensare fuori dagli schemi quando si tratta di creare serie di gioielli personalizzati. Non sono più vincolati da ciò che possono creare fisicamente a mano. Invece, un programma software per computer può aiutare a trasformare in realtà un concetto di design creativo e innovativo.
-                Servizi veloci, rapidi e affidabili da Green Garnet
-                Per iniziare, contatta oggi stesso il tuo coordinatore del lavoro.
-
-                </p>
-                    <StaticImage src="../content/img/garnet_coin1.jpg" alt="A dinosaur" />
-                <p>
-                  Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
-
-                 1. Chat With A Representative:
-                     One of our designers will be with you shortly.From there, we will schedule a call or arrange a meeting to get started.
-
-                  2. Actualize Your Concept:
-                     Your jewelry designer will begin by establishing your needs and gathering relevant materials related to your project. From there, they will develop your idea and communicate with you using photos, computer generated renderings, and various design tools available to help you visualize your masterpiece.
-
-                  3. Create Your Jewelry:
-                    Once we have earned your complete confidence, we will customize a piece of fine jewelry to your specifications.
-
-                  Whatsapp: +989901377600
-                </p>
+               
               </div>
             </PostFullContent>
           </article>

@@ -50,7 +50,7 @@ const Contact: React.FC = () => (
         <div css={inner}>
           <article className="post page" css={[PostFull, NoImage]}>
             <PostFullHeader className="post-full-header">
-              <PostFullTitle className="post-full-title">About</PostFullTitle>
+              <PostFullTitle className="post-full-title">Contact</PostFullTitle>
             </PostFullHeader>
 
             <PostFullContent className="post-full-content">

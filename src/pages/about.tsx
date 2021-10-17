@@ -64,14 +64,22 @@ const About: React.FC = () => (
                 </h5>
                  <StaticImage src="../content/img/greengarnetlogos2.jpg" alt="A dinosaur" />
                 <p>
-                In 1967, British gem prospector and geologist Campbell R. Bridges discovered a deposit of green grossular in the mountains of north-east Tanzania in a place called Lemshuko, 15 km (9.3 mi) away from Komolo, the first village. The specimens he found were of very intense color and of high transparency. The find interested the gem trade, and attempts were made to export the stones, but the Tanzanian government did not provide permits.
+                In 1967, British gem prospector and geologist Campbell R. Bridges discovered a deposit of green grossular in the mountains of north-east Tanzania in a place called Lemshuko, 15 km (9.3 mi) away from Komolo, the first village. 
+                  </p>
+                  <StaticImage src="../content/img/tsavorite_fig2.jpg" alt="A dinosaur" />
+                <p>
+                  The specimens he found were of very intense color and of high transparency. The find interested the gem trade, and attempts were made to export the stones, but the Tanzanian government did not provide permits.
                  </p>
-                <StaticImage src="../content/img/tsavorite_fig2.jpg" alt="A dinosaur" />
+              
                 <StaticImage src="../content/img/tsavorite_fig4.jpg" alt="A dinosaur" />
                   <p>
-                Believing that the deposit was a part of a larger geological structure extending possibly into Kenya, Bridges began prospecting in that nation. He was successful a second time in 1971, when he found the mineral variety there, and was granted a permit to mine the deposit. The gemstone was known only to mineral specialists until 1974, when Tiffany and Co launched a marketing campaign which brought broader recognition of the stone.
-                </p>
+                Believing that the deposit was a part of a larger geological structure extending possibly into Kenya, Bridges began prospecting in that nation. He was successful a second time in 1971, when he found the mineral variety there, and was granted a permit to mine the deposit. 
+                    </p>
                 <StaticImage src="../content/img/tsavorite_fig6.jpg" alt="A dinosaur" />
+                <p>
+                    The gemstone was known only to mineral specialists until 1974, when Tiffany and Co launched a marketing campaign which brought broader recognition of the stone.
+                </p>
+                
                 <StaticImage src="../content/img/tsavorite_fig8.jpg" alt="A dinosaur" />
                     <p>
                   Green-Garnet is restorative and liberating. It’s a growth stone that is also a powerful conduit of birth, creation, development, and renewal.

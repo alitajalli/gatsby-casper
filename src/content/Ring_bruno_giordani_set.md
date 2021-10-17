@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Giordano Bruno Ring'
-author: [Ghost]
+author: [Green Garnet]
 tags: ['RING']
 image: img/giordano-Bruno-ring-11.jpg
 date: '2022-08-20T15:11:55.000Z'
@@ -34,7 +34,7 @@ Giordano Bruno may have been considered a heretic during his time, but his work 
 
 
 Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
-
+![Test Image](img/aitta.jpg)
 ## 1. Chat With A Representative:
 One of our designers will be with you shortly.From there, we will schedule a call or arrange a meeting to get started.
 

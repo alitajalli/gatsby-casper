@@ -64,7 +64,7 @@ const config: WebsiteConfig = {
   logo: 'img/greengarnet.png',
   lang: 'en',
   siteUrl: 'https://greengarnet.org',
-  instagram: 'https://www.instagram.com/greengarnet.official',
+  instagram: 'https://www.instagram.com/greengarnet.studio',
   facebook: 'https://www.facebook.com/greengarnet.official',
   twitter: 'https://twitter.com/ali19364317',
   showSubscribe: true,

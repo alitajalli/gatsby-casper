@@ -89,7 +89,7 @@ Per iniziare, contatta oggi stesso il tuo coordinatore del lavoro.
                  <p>
                    Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
                 </p>
-                <StaticImage src="../content/img/aitta.jpg" alt="A dinosaur" />
+               
                 <p>  
  1. Chat With A Representative:
 One of our designers will be with you shortly.From there, we will schedule a call or arrange a meeting to get started.

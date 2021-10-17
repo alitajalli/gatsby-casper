@@ -122,6 +122,25 @@ const About: React.FC = () => (
                   Green-Garnet will inspire you to inject good old-fashioned romance and silly fun into a serious relationship.
                   It will remind you to never lose passion or energy for one another, especially during times when you’re filled with stress, fear, or worry.
                 </p>
+                <p>
+                   Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
+                </p>
+               <StaticImage src="../content/img/aitta.jpg" alt="A dinosaur" />
+                <p>  
+ 1. Chat With A Representative:
+One of our designers will be with you shortly.From there, we will schedule a call or arrange a meeting to get started.
+                </p>
+                <p> 
+ 2. Actualize Your Concept:
+Your jewelry designer will begin by establishing your needs and gathering relevant materials related to your project. From there, they will develop your idea and communicate with you using photos, computer generated renderings, and various design tools available to help you visualize your masterpiece.
+               </p>
+                <p> 
+ 3. Create Your Jewelry:
+Once we have earned your complete confidence, we will customize a piece of fine jewelry to your specifications.
+                </p>
+                <p> 
+                whatsapp: +989901377600
+                </p>
               </div>
             </PostFullContent>
           </article>

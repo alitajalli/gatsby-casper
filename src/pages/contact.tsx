@@ -99,7 +99,9 @@ Your jewelry designer will begin by establishing your needs and gathering releva
  3. Create Your Jewelry:
 Once we have earned your complete confidence, we will customize a piece of fine jewelry to your specifications.
                 </p>
-                
+                <p> 
+                whatsapp: +989901377600
+                </p>
               </div>
             </PostFullContent>
           </article>

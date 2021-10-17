@@ -3,7 +3,7 @@ title: 'Design Your Own Dreams'
 author: [Green Garnet]
 tags: [DESIGN]
 image: img/sketch-designer-jewellery-1-1.jpg
-date: '2018-12-12T10:00:00.000Z'
+date: '2022-12-12T10:00:00.000Z'
 draft: false
 ---
 # Design Your Own Dreams
@@ -43,7 +43,7 @@ A professional designer will look for the safest repair procedure while keeping 
 ![Test Image](img/sketch-designer-jewellery-5.jpg)
 
 Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
-
+![Test Image](img/aitta.jpg)
 ## 1. Chat With A Representative:
 One of our designers will be with you shortly.From there, we will schedule a call or arrange a meeting to get started.
 

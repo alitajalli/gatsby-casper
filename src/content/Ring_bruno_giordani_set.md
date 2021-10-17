@@ -4,7 +4,7 @@ title: 'Giordano Bruno Ring'
 author: [Green Garnet]
 tags: [Modern]
 image: img/giordano-Bruno-ring-11.jpg
-date: '2022-08-20T15:11:55.000Z'
+date: '2021-08-20T15:11:55.000Z'
 draft: false
 ---
 Giordano Bruno

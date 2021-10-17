@@ -33,7 +33,7 @@ const PageTemplate = css`
   }
 `;
 
-const About: React.FC = () => (
+const Contact: React.FC = () => (
   <IndexLayout>
     <Helmet>
       <title>CONTACT</title>
@@ -112,4 +112,4 @@ Once we have earned your complete confidence, we will customize a piece of fine 
   </IndexLayout>
 );
 
-export default About;
+export default Contact;

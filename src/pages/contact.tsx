@@ -86,7 +86,6 @@ Servizi veloci, rapidi e affidabili da Green Garnet
 Per iniziare, contatta oggi stesso il tuo coordinatore del lavoro.
 
                 </p>
-                <StaticImage src="../content/img/greengarnet_Jewelry.jpg" alt="A dinosaur" />
                  <p>
                    Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
                 </p>

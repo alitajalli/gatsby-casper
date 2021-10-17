@@ -19,7 +19,7 @@ Garnet Coin
 
 
 Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
-
+![Test Image](img/aitta.jpg)
 ## 1. Chat With A Representative:
 One of our designers will be with you shortly.From there, we will schedule a call or arrange a meeting to get started.
 

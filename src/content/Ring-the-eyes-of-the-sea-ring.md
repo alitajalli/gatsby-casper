@@ -1,7 +1,7 @@
 ---
 title: 'The Eyes of the Sea'
 author: [Green Garnet]
-tags: [RING]
+tags: [Traditional]
 image: img/ring-the-eyes-of-the-sea-ring-1.jpg
 date: '1863-11-19T10:00:00.000Z'
 draft: false

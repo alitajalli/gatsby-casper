@@ -2,7 +2,7 @@
 layout: post
 title: 'Giordano Bruno Necklace'
 author: [Green Garnet]
-tags: ['NECKLACE']
+tags: [Modern]
 image: img/giordano-Bruno-necklace-1.jpg
 date: '2022-08-20T15:11:55.000Z'
 draft: false

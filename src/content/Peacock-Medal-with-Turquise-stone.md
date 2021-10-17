@@ -2,7 +2,7 @@
 layout: post
 title: 'Peacock Medal with Turquise stone (medal)'
 author: [Green Garnet]
-tags: ['MEDAL']
+tags: [Classic]
 image: img/Peacock-Medal-with-Turquise-stone-medal-2.jpg
 date: '2012-08-20T15:11:55.000Z'
 draft: false

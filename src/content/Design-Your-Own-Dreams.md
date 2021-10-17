@@ -1,7 +1,7 @@
 ---
 title: 'Design Your Own Dreams'
 author: [Green Garnet]
-tags: [DESIGN]
+tags: [our services]
 image: img/sketch-designer-jewellery-1-1.jpg
 date: '2022-12-12T10:00:00.000Z'
 draft: false

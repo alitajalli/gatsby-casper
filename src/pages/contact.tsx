@@ -62,7 +62,9 @@ const About: React.FC = () => (
                 <p>
                   Jewelry is gorgeous ! Unfortunately, it can be difficult to take what your imagination creates and turn it into an actual product and price too high to do marketing. That is why you should consider Green Garnet’s professional CAD / mass order services .
                 </p>
-               
+                <p>
+                المجوهرات رائعة! لسوء الحظ ، قد يكون من الصعب أن تأخذ ما يبتكره خيالك وتحويله إلى منتج فعلي وسعر مرتفع جدًا للقيام بالتسويق ، ولهذا السبب يجب عليك التفكير في خدمات CAD / الطلبات الجماعية الاحترافية من Green Garnet 
+               </p>
               </div>
             </PostFullContent>
           </article>

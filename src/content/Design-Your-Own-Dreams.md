@@ -42,6 +42,8 @@ A professional designer will look for the safest repair procedure while keeping 
 
 ![Test Image](img/sketch-designer-jewellery-5.jpg)
 
+## GET 10% OFF YOUR FIRST ORDER
+
 Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
 ![Test Image](img/aitta.jpg)
 ## 1. Chat With A Representative:

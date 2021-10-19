@@ -64,7 +64,10 @@ const Contact: React.FC = () => (
                 <p>
                   Jewelry is gorgeous ! Unfortunately, it can be difficult to take what your imagination creates and turn it into an actual product and price too high to do marketing. That is why you should consider Green Garnet’s professional CAD / mass order services .
                 </p>
-                <p>
+                <p>                
+                 جواهرات بسیار زیبا هستند! متأسفانه ، رسیدن به آنچه که در تخیل شما ست بسیار دشوار است و تبدیل آن به یک محصول واقعی زمان و هزینه بالایی جهت آزمون و خطا را برای شما ایجاد می کند.همین دلیل است که ما خدمات طراحی تخصصی شبیه سازی گرین گارنت را به شما پیشنهاد می کنیم.
+                </p>
+                <p> 
                 المجوهرات رائعة! لسوء الحظ ، قد يكون من الصعب أن تأخذ ما يبتكره خيالك وتحويله إلى منتج فعلي وسعر مرتفع جدًا للقيام بالتسويق ، ولهذا السبب يجب عليك التفكير في خدمات CAD / الطلبات الجماعية الاحترافية من Green Garnet 
                </p>
                 <p>
@@ -76,6 +79,12 @@ const Contact: React.FC = () => (
                   Our CAD services allow jewelry online/offline stores and jewelry designers to think outside the box when it comes to creating custom jewelry series. No longer are they bound by what they can physically create by hand. Instead, a computer software program can help turn a creative and innovative design concept into reality.
 Fast, Quick and Reliable Services from Green Garnet
 To get started, contact your job coordinator today.
+                </p>
+                <p>
+                  
+                  خدمات شبیه سازی ما به فروشگاه های آنلاین/آفلاین جواهرات وهمچنین طراحان طلا و جواهر اجازه می دهد هنگام ایجاد سری سازی جواهرات سفارشی ، فراتر و با ارامش خیال ایده پردازی کنند. آنها دیگر به صورت فیزیکی یا با طراحی دستی ، محدود نمی شوند. در عوض ، با مشاورین ما و نرم افزاری های رایانه ای می تواند به تبدیل یک ایده خلاقانه در طراحی، محصولات خارق العاده خود را تولید و به فروش برسانند.
+خدمات سریع ، به موقع و قابل اعتماد از گرین گارنت
+برای شروع ، همین امروز با ما تماس بگیرید.
                 </p>
                 <p>
                   الخاصة بنا لمتاجر المجوهرات عبر الإنترنت / غير المتصلة بالإنترنت ومصممي المجوهرات بالتفكير خارج الصندوق عندما يتعلق الأمر بإنشاء سلسلة مجوهرات مخصصة. لم يعدوا ملزمين بما يمكنهم صنعه يدويًا. بدلاً من ذلك ، يمكن أن يساعد برنامج الكمبيوتر في تحويل مفهوم التصميم الإبداعي والمبتكر إلى واقع ملموس.

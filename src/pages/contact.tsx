@@ -99,7 +99,7 @@ Per iniziare, contatta oggi stesso il tuo coordinatore del lavoro.
                 </p>
                 <StaticImage src="../content/img/ greengarnet-about.jpg" alt="A dinosaur" />
                <p>
-                #GET 10% OFF YOUR FIRST ORDER 
+                GET 10% OFF YOUR FIRST ORDER 
                 </p>
                  <p>
                    Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.

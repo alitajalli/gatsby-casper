@@ -53,10 +53,10 @@ Your jewelry designer will begin by establishing your needs and gathering releva
 ## 3. Create Your Jewelry:
 Once we have earned your complete confidence, we will customize a piece of fine jewelry to your specifications.
 
+<div id="740452155"><script type="text/JavaScript" src="https://www.aparat.com/embed/GCRMD?data[rnddiv]=740452155&data[responsive]=yes&data[title]=%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D8%AC%D9%88%D8%A7%D9%87%D8%B1%D8%A7%D9%84%D8%A7%D8%AA%20green%20garnet"></script></div>
 
-<div id="11619464234"><script type="text/JavaScript" src="https://www.aparat.com/embed/GCRMD?data[rnddiv]=11619464234&data[responsive]=yes"></script></div>
 
-
+<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style><div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/GCRMD/vt/frame" title="طراحی جواهرالات green garnet" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 
 
 

@@ -19,7 +19,7 @@ The Classic Ring, with its beautiful silhouette, is designed for both men and wo
 
 
 
-#GET 10% OFF YOUR FIRST ORDER 
+## GET 10% OFF YOUR FIRST ORDER 
 
 Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
 ![Test Image](img/aitta.jpg)

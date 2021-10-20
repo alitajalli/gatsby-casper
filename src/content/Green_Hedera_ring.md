@@ -20,15 +20,11 @@ The modern English ivy derives from Middle English ivi from Old English īfiġ, 
 The present project is inspired by Hedera roots.
 
 ![Test Image](img/green_hedra_ring.jpg)
-
 ![Test Image](img/Green_Hedera_ring2.jpg)
-
 ![Test Image](img/Green_Hedera_ring3.jpg)
 ![Test Image](img/Green_Hedera_ring4.jpg)
-
 ![Test Image](img/Green_Hedera_ring5.jpg)
 ![Test Image](img/Green_Hedera_ring6.jpg)
-
 ![Test Image](img/Green_Hedera_ring7.jpg)
 
 Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.

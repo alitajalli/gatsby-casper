@@ -18,7 +18,7 @@ Metals: 7.80 grams
 width: 6.49 mm
 Thickness: 2.55 mm
 
-![Test Image](img/CluxureyRing11.jpg)
+![Test Image](img/luxureyRing11.jpg)
 
 The Classic Ring, with its beautiful silhouette, is designed for both men and women. Designed with elegance in mind, and fashioned with impeccable craftsmanship, the Classic Ring is the perfect finishing touch to any outfit.
 ![Test Image](img/luxureyRing22.jpg)

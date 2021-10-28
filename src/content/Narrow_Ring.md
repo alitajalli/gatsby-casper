@@ -20,7 +20,7 @@ Thickness: 0.51 mm
 
 The Classic Ring, with its beautiful silhouette, is designed for both men and women. Designed with elegance in mind, and fashioned with impeccable craftsmanship, the Classic Ring is the perfect finishing touch to any outfit.
 ![Test Image](img/NarrowRing2.jpg)
-![Test Image](img/NarrowRing3.jpg)
+![Test Image](img/NarrowRing33.jpg)
 ![Test Image](img/NarrowRing44.jpg)
 ![Test Image](img/NarrowRing55.jpg)
 ![Test Image](img/NarrowRing66.jpg)

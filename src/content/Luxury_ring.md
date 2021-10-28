@@ -3,7 +3,7 @@ layout: post
 title: 'Luxury Ring'
 author: [Green Garnet]
 tags: [Classic]
-image: img/CluxureyRing.jpg
+image: img/luxureyRing.jpg
 date: '2022-09-20T15:11:55.000Z'
 draft: false
 ---

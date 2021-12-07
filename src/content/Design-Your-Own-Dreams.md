@@ -6,7 +6,7 @@ image: img/aitta.jpg
 date: '2022-12-12T10:00:00.000Z'
 draft: false
 ---
-# Design Your Own Dreams
+# A tailored place to enable you to achieve your dreams
 
 ![Test Image](img/greengarnetdesignposter.jpg)
 

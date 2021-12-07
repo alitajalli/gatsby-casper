@@ -2,35 +2,28 @@
 title: 'Design Your Own Dreams'
 author: [Green Garnet]
 tags: [our services]
-image: img/sketch-designer-jewellery-1-1.jpg
+image: img/aitta.jpg
 date: '2022-12-12T10:00:00.000Z'
 draft: false
 ---
 # Design Your Own Dreams
 
-![Test Image](img/sketch-designer-jewellery-1.jpg)
+![Test Image](img/greengarnetdesignposter.jpg)
 
 ### Perhaps you want to create something unique but don't know where to begin?
 Let us handle the design.
 
-![Test Image](img/greengarnetlogos2.jpg)
+
 
 We'll assist you in identifying the jewellery styles that appeal to you. Our designers will accompany you as you peruse our extensive jewellery selection, assisting you in identifying the design elements that appeal to you. Our designers will create an original piece of jewellery that fits your lifestyle and budget after assisting you in discovering the possibilities. 
 
-![Test Image](img/sketch-designer-jewellery-2.jpg)
-
 There is no limit to the creativity you may express with precious metals and diamonds; if you see a design you like and want to put that into practice, we can assist you. Our designers can work with you on economics, feasibility, lengthy use, and cost effectiveness. This is a fun and gratifying procedure that ends with a unique piece of exquisite jewellery that you designed yourself. The best thing is that some of the finest jewellers in the world will put your vision into reality. 
-
-![Test Image](img/sketch-designer-jewellery-3.jpg)
 
 Existing jewellery is frequently the inspiration for new custom creations. When a customer sees a piece of jewellery they like, but they prefer it with a different stone shape, size or colors, it happens all the time. Frequently, our clients want a product that is a little thinner, longer, or taller, or prefer a different texture or pattern than what is currently available. We're frequently tasked with coming up with solutions to make identical jewellery for less money.
 We're Jewelry Designs, so no worries there! We'll personalize it to your specifications!
 
-
 Unless the finishing are flawless, you've probably discovered the perfect design.
 Changing the sort of stone or the precious metal used may be all that is required to suit your preferences. 
-
-![Test Image](img/sketch-designer-jewellery-4.jpg)
 
 We've done a lot of work on replicating family treasures for our customers.
 Occasionally, a second piece of jewellery is created for a different member of the family.
@@ -40,7 +33,14 @@ If the stones or materials of a family heirloom carry sentimental importance, yo
 If this is the case, you may opt to have the item restored.
 A professional designer will look for the safest repair procedure while keeping faithful to the original materials and style. 
 
-![Test Image](img/sketch-designer-jewellery-5.jpg)
+
+### A desire that will last eternally, a memory that will last forever.
+
+### Beautiful, distinctive, and one-of-a-kind designs.
+
+### Wishes that come true to soothe your soul.
+
+# A lasting memory of us.
 
 ## GET 10% OFF YOUR FIRST ORDER
 

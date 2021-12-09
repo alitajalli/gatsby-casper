@@ -32,7 +32,7 @@ In Sanskrit, the name आर्द्रावी शूरा अनाहि�
 
 
 ![Test Image](img/anahitabracelet1.jpg)
-![Test Image](img/anahitabracelet01.jpg)
+
 
 The Classic Braclet, with its beautiful silhouette, is designed for both men and women. Designed with elegance in mind, and fashioned with impeccable craftsmanship, the Classic braclet is the perfect finishing touch to any outfit.
 

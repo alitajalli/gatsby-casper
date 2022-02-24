@@ -101,6 +101,7 @@ Per iniziare, contatta oggi stesso il tuo coordinatore del lavoro.
                <p>
                 GET 10% OFF YOUR FIRST ORDER 
                 </p>
+                <StaticImage src="../content/img/igicertificate.jpg" alt="A dinosaur" />
                  <p>
                    Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
                 </p>

@@ -33,6 +33,7 @@ If the stones or materials of a family heirloom carry sentimental importance, yo
 If this is the case, you may opt to have the item restored.
 A professional designer will look for the safest repair procedure while keeping faithful to the original materials and style. 
 
+![Test Image](img/igicertificate.jpg)
 
 ### A desire that will last eternally, a memory that will last forever.
 

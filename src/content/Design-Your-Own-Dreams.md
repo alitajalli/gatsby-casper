@@ -1,5 +1,5 @@
 ---
-title: 'Design Your Own Dreams'
+title: 'Custom Jewelry Design by Ali Tajalli'
 author: [Green Garnet]
 tags: [our services]
 image: img/aitta.jpg

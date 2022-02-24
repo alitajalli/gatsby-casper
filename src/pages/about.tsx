@@ -130,6 +130,7 @@ const About: React.FC = () => (
                   Green-Garnet will inspire you to inject good old-fashioned romance and silly fun into a serious relationship.
                   It will remind you to never lose passion or energy for one another, especially during times when you’re filled with stress, fear, or worry.
                 </p>
+                <StaticImage src="../content/img/igicertificate.jpg" alt="A dinosaur" />
                 <p>
                    Designing jewelry from home can be fun and rewarding. Through Jewelry Designs’ virtual jewelry service, you will have direct access to a designer and a personal shopper.
                 </p>
